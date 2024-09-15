@@ -24,4 +24,4 @@ A simple weather application built with React and Vite. This app provides curren
 1. **Clone the Repository**
 
    ```bash
-   git clone git@github.com:YourUsername/weather-app.git
+   git clone git@github.com:Anubhav-shukla1729/weather-app.git
