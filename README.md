@@ -2,13 +2,9 @@
 
 A simple weather application built with React and Vite. This app provides current weather information based on user-selected cities. It uses the [WeatherAPI](https://www.weatherapi.com/) to fetch weather data.
 
-##image
-
-
+## Image
 
 ![Screenshot from 2024-09-15 15-35-47](https://github.com/user-attachments/assets/32dbe24e-8cea-4b6c-929d-90f7fe3d01fb)
-
-
 
 ## Features
 
@@ -29,12 +25,3 @@ A simple weather application built with React and Vite. This app provides curren
 
    ```bash
    git clone git@github.com:YourUsername/weather-app.git
-
-2.nevigate to folder 
-    cd weather-app
-
-3.install dependencies 
-    npm install
-4.run the files
-    npm run dev
-
